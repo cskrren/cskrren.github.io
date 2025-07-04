@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Kerui Ren"
-description              : "Cogito, ergo sum"
-repository               : "RayeRen/acad-homepage.github.io"
+description              : ""
+repository               : "cskrren/cskrren.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
