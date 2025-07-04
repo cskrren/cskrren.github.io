@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kerui Ren"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Cogito, ergo sum"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kerui Ren"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/512x744.png"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : Kerui Ren # e.g., "linkedin username"
+  linkedin         : # e.g., "linkedin username"
   dblp             : https://dblp.org/pid/372/7345.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : https://orcid.org/my-orcid?orcid=0009-0003-8010-5733 # e.g., "https://orcid.org/xxxx"
   pinterest        :
