@@ -19,13 +19,14 @@ redirect_from:
 
 I am a first-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of Dr. Daibo. Currently, I am also a research intern at the Embodied AI Center of Shanghai AI Lab, co-advised by Dr. Mulin Yu and Dr. Linning Xu. Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of Prof. Zhangkai Ni.
 
-My research interests lie in 3D reconstruction, neural rendering, and scene relighting. I have published papers in top-tier computer vision conferences and journals including CVPR, RSS, TPAMI, and IJCV, with my publications accumulating <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> Google Scholar citations.
+My research interests lie in 3D reconstruction, neural rendering, and scene relighting. I have published papers in top-tier computer vision conferences and journals including CVPR, RSS, TPAMI, and IJCV, with my publications accumulating <a href='https://scholar.google.com/citations?user=5kW5apkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> Google Scholar citations.
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Our SMHDR on Multi-view HDR Reconstruction was accepted to IJCV 2025.
-- *2025.05*: &nbsp;🎉🎉 Our Octree-GS on LOD-Structured 3D Gaussians was accepted to TPAMI 2025.
-- *2025.04*: &nbsp;🎉🎉 One paper on One-Shot Manipulation (code) was accepted to RSS 2025.
-- *2025.02*: &nbsp;🎉🎉 Our Horizon-GS on Aerial-to-Ground Scene Reconstruction was accepted to CVPR 2025.
+- *2025.06*: &nbsp;🎉 Our SMHDR on Multi-view HDR Reconstruction was accepted to IJCV 2025.
+- *2025.05*: &nbsp;🎉 Our Octree-GS on LOD-Structured 3D Gaussians was accepted to TPAMI 2025.
+- *2025.04*: &nbsp;🎉 One paper on One-Shot Manipulation (code) was accepted to RSS 2025.
+- *2025.02*: &nbsp;🎉 Our Horizon-GS on Aerial-to-Ground Scene Reconstruction was accepted to CVPR 2025.
+- *2024.07*: &nbsp;🎓 Graduated from Tongji University.
 
 # 📝 Publications 
 
