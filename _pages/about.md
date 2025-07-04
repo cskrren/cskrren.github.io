@@ -76,7 +76,7 @@ Changjian Jiang*, **Kerui Ren\***, Linning Xu, Jiong Chen, Jiangmiao Pang, Yu Zh
 Sizhe Yang*, Wenye Yu*, Jia Zeng, Jun Lv, **Kerui Ren**, Cewu Lu, Dahua Lin, Jiangmiao Pang†
 
 [**Project**](https://yangsizhe.github.io/robosplat/) [**Code**](https://github.com/OpenRobotLab/RoboSplat) [**Paper**](https://www.roboticsproceedings.org/rss21/p146.pdf)
-- We introduce RoboSplat, which leverages 3D Gaussian Splatting to generate realistic, diverse training demonstrations from a single expert demo and multi-view images, enabling RGB-based policies to robustly generalize across object poses/types, camera views, scene appearance, lighting, and robot embodiments while outperforming 2D augmentation methods in a unified framework.
+- We introduce RoboSplat, a framework that leverages 3D Gaussian Splatting (3DGS) to generate novel demonstrations for RGB-based policy learning.
 </div>
 </div>
 
