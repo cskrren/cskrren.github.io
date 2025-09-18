@@ -19,9 +19,11 @@ redirect_from:
 
 I am a first-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Embodied AI Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://scholar.google.com/citations?user=w0Od3hQAAAAJ) and [**Dr. Linning Xu**](https://scholar.google.com/citations?user=I9Lrbs4AAAAJ). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://scholar.google.com/citations?user=68IcrE4AAAAJ).
 
-My research interests lie in 3D reconstruction, neural rendering, and scene relighting. I have published papers in top-tier computer vision conferences and journals including CVPR, RSS, TPAMI, and IJCV, with my publications accumulating 100+ Google Scholar citations.
+My research interests lie in 3D reconstruction, neural rendering, and scene relighting. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, RSS, TPAMI, IJCV and TOG, with my publications accumulating 100+ Google Scholar citations.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 Our MV-CoLight on Multi-view Object Compositing was accepted to NIPS 2025.
+- *2025.08*: &nbsp;🎉 One paper on Unposed Novel View Synthesis was accepted to SIGGRAPH Asia 2025 (ACM TOG).
 - *2025.06*: &nbsp;🎉 Our SMHDR on Multi-view HDR Reconstruction was accepted to IJCV 2025.
 - *2025.05*: &nbsp;🎉 Our Octree-GS on LOD-Structured 3D Gaussians was accepted to TPAMI 2025.
 - *2025.04*: &nbsp;🎉 One paper on One-Shot Manipulation was accepted to RSS 2025.
@@ -32,7 +34,7 @@ My research interests lie in 3D reconstruction, neural rendering, and scene reli
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/AnySplat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (ACM TOG)</div><img src='images/AnySplat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views](https://arxiv.org/abs/2505.23716)
@@ -44,7 +46,7 @@ Lihan Jiang*, Yucheng Mao*, Linning Xu, Tao Lu, **Kerui Ren**, Yichen Jin, Xudon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/MVCoLight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/MVCoLight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation](https://arxiv.org/abs/2505.21483)
