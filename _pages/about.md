@@ -148,7 +148,7 @@ Zhangkai Ni, Yang Zhang, **Kerui Ren**, Wenhan Yang†, Hanli Wang†, Sam Kwong
 
 # 📖 Educations
 - *2024.09 - present*, Ph.D. in Information and Communication Engineering, Shanghai Jiao Tong University
-- *20W0.09 - 2024.07*, B.S. in Computer Science and Technology, Tongji University
+- *2020.09 - 2024.07*, B.S. in Computer Science and Technology, Tongji University
 
 # 💬 Community Services
 
