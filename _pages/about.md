@@ -34,6 +34,18 @@ My research interests lie in 3D reconstruction, neural rendering, and scene reli
 
 (†: corresponding author; * :equal contribution)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (ACM TOG)</div><img src='images/ARTDECO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://arxiv.org/abs/2510.08551)
+
+Guanghao Li*, Kerui Ren*, Linning Xu, Zhewen Zheng, Changjian Jiang, Xin Gao, Bo Dai, Jian Pu†, Mulin Yu†, Jiangmiao Pang
+
+[**Project**](https://city-super.github.io/artdeco/) [**Code**](https://github.com/InternRobotics/ARTDECO) [**Paper**](https://arxiv.org/pdf/2510.08551)
+- ARTDECO unifies 3D foundation priors with structured scene representations, enabling robust and generalizable 3D reconstruction of diverse real-world scenes using only monocular video.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (ACM TOG)</div><img src='images/AnySplat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
