@@ -19,9 +19,10 @@ redirect_from:
 
 I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Embodied AI Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://scholar.google.com/citations?user=w0Od3hQAAAAJ) and [**Dr. Linning Xu**](https://scholar.google.com/citations?user=I9Lrbs4AAAAJ). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://scholar.google.com/citations?user=68IcrE4AAAAJ).
 
-My research interests lie in 3D reconstruction, neural rendering, and scene relighting. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, RSS, TPAMI, IJCV and TOG, with my publications accumulating 100+ Google Scholar citations.
+My research interests lie in streaming reconstruction and scene generation. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 300+ Google Scholar citations.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 Our ARTDECO on On-the-fly reconstruction was accepted to ICLR 2026.
 - *2025.09*: &nbsp;🎉 Our MV-CoLight on Multi-view Object Compositing was accepted to NIPS 2025.
 - *2025.08*: &nbsp;🎉 One paper on Unposed Novel View Synthesis was accepted to SIGGRAPH Asia 2025 (ACM TOG).
 - *2025.06*: &nbsp;🎉 Our SMHDR on Multi-view HDR Reconstruction was accepted to IJCV 2025.
@@ -34,12 +35,12 @@ My research interests lie in 3D reconstruction, neural rendering, and scene reli
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/ARTDECO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ARTDECO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://arxiv.org/abs/2510.08551)
 
-Guanghao Li*, Kerui Ren*, Linning Xu, Zhewen Zheng, Changjian Jiang, Xin Gao, Bo Dai, Jian Pu†, Mulin Yu†, Jiangmiao Pang
+Guanghao Li\*, **Kerui Ren\***, Linning Xu, Zhewen Zheng, Changjian Jiang, Xin Gao, Bo Dai, Jian Pu†, Mulin Yu†, Jiangmiao Pang
 
 [**Project**](https://city-super.github.io/artdeco/) [**Code**](https://github.com/InternRobotics/ARTDECO) [**Paper**](https://arxiv.org/pdf/2510.08551)
 - ARTDECO unifies 3D foundation priors with structured scene representations, enabling robust and generalizable 3D reconstruction of diverse real-world scenes using only monocular video.
@@ -51,7 +52,7 @@ Guanghao Li*, Kerui Ren*, Linning Xu, Zhewen Zheng, Changjian Jiang, Xin Gao, Bo
 
 [AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views](https://arxiv.org/abs/2505.23716)
 
-Lihan Jiang*, Yucheng Mao*, Linning Xu, Tao Lu, **Kerui Ren**, Yichen Jin, Xudong Xu, Mulin Yu, Jiangmiao Pang, Feng Zhao†, Dahua Lin, Bo Dai†
+Lihan Jiang\*, Yucheng Mao\*, Linning Xu, Tao Lu, **Kerui Ren**, Yichen Jin, Xudong Xu, Mulin Yu, Jiangmiao Pang, Feng Zhao†, Dahua Lin, Bo Dai†
 
 [**Project**](https://city-super.github.io/anysplat/) [**Code**](https://github.com/OpenRobotLab/AnySplat) [**Paper**](https://arxiv.org/pdf/2505.23716)
 - We introduce AnySplat, a feed‑forward network for novel‑view synthesis from uncalibrated image collections in both sparse‑ and dense‑view scenarios.
@@ -166,7 +167,7 @@ Zhangkai Ni, Yang Zhang, **Kerui Ren**, Wenhan Yang†, Hanli Wang†, Sam Kwong
 
 Reviewer
 
-- SIGGRAPH Asia 25
+- SIGGRAPH Asia 25, ISPRS, IEEE TVCG.
 
 # 💻 Internships
 - *2023.11 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
