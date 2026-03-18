@@ -203,7 +203,8 @@ Zhangkai Ni, Yang Zhang, **Kerui Ren**, Wenhan Yang†, Hanli Wang†, Sam Kwong
 
 Reviewer
 
-- SIGGRAPH Asia 25, ISPRS, IEEE TVCG.
+- SIGGRAPH Asia 25, SIGGRAPH 26
+- ISPRS, IEEE TVCG
 
 # 💻 Internships
 - *2023.11 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
