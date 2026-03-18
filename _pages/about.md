@@ -35,7 +35,7 @@ My research interests lie in streaming reconstruction and scene generation. I ha
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/ARTDECO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/M3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [M³: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM](https://arxiv.org/abs/2603.16844)
@@ -47,7 +47,19 @@ My research interests lie in streaming reconstruction and scene generation. I ha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/ARTDECO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/SoMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation](https://arxiv.org/abs/2602.02402)
+
+Mu Huang, Hui Wang, **Kerui Ren**, Linning Xu, Yunsong Zhou, Mulin Yu, Bo Dai, Jiangmiao Pang
+
+[**Project**](https://city-super.github.io/SoMA/) [**Code**](https://github.com/Wrioste/SoMA) [**Paper**](https://arxiv.org/pdf/2601.22046)
+- SoMA is a Gaussian splat neural simulator that models deformable object dynamics from real-world robot manipulation, enabling action-conditioned, stable long-horizon simulation with high-fidelity, multi-view–consistent rendering.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/SoMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation](https://arxiv.org/abs/2602.02402)
