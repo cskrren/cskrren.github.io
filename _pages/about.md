@@ -43,7 +43,7 @@ My research interests lie in streaming reconstruction and scene generation. I ha
 **Kerui Ren**, Guanghao Li, Changjian Jiang, Yingxiang Xu, Tao Lu, Linning Xu, Junting Dong, Jiangmiao Pang, Mulin Yu†, Bo Dai†
 
 [**Project**](https://city-super.github.io/M3/) [**Code**](https://github.com/InternRobotics/M3) [**Paper**](https://arxiv.org/pdf/2603.16844)
-- M³ is a M Gaussian Splatting SLAM with a Multi-view foundation model for dense Matching.
+- M³ is a Monocular Gaussian Splatting SLAM with a Multi-view foundation model for dense Matching.
 </div>
 </div>
 
