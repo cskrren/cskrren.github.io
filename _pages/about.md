@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Embodied AI Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://scholar.google.com/citations?user=w0Od3hQAAAAJ) and [**Dr. Linning Xu**](https://scholar.google.com/citations?user=I9Lrbs4AAAAJ). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://scholar.google.com/citations?user=68IcrE4AAAAJ).
 
-My research interests lie in streaming reconstruction and scene generation. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 300+ Google Scholar citations.
+My research interests lie in streaming reconstruction and scene generation. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 400+ Google Scholar citations.
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉 Our ARTDECO on On-the-fly reconstruction was accepted to ICLR 2026.
@@ -56,6 +56,30 @@ Mu Huang, Hui Wang, **Kerui Ren**, Linning Xu, Yunsong Zhou, Mulin Yu, Bo Dai, J
 
 [**Project**](https://city-super.github.io/SoMA/) [**Code**](https://github.com/Wrioste/SoMA) [**Paper**](https://arxiv.org/pdf/2601.22046)
 - SoMA is a Gaussian splat neural simulator that models deformable object dynamics from real-world robot manipulation, enabling action-conditioned, stable long-horizon simulation with high-fidelity, multi-view–consistent rendering.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/EAGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EAG-PT: Emission-Aware Gaussians and Path Tracing for Indoor Scene Reconstruction and Editing](https://arxiv.org/abs/2601.23065)
+
+Xijie Yang, Mulin Yu, Changjian Jiang, **Kerui Ren**, Tao Lu, Jiangmiao Pang, Dahua Lin, Bo Dai, Linning Xu
+
+[**Paper**](https://arxiv.org/pdf/2601.23065)
+- Emission-Aware Gaussians and Path Tracing (EAG-PT), aiming for physically based light transport with a unified 2D Gaussian representation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/PLANING.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction](https://arxiv.org/abs/2601.22046)
+
+Changjian Jiang\*, **Kerui Ren\***, Xudong Li, Kaiwen Song, Guanghao Li, Linning Xu, Tao Lu, Junting Dong, Yu Zhang†, Bo Dai, Mulin Yu†
+
+[**Project**](https://city-super.github.io/PLANING/) [**Code**](https://github.com/InternRobotics/PLANING) [**Paper**](https://arxiv.org/pdf/2601.22046)
+- PLANING introduces a loosely coupled triangle-Gaussian representation and a monocular streaming framework that jointly achieves accurate geometry, high-fidelity rendering, and efficient planar abstraction for embodied AI applications.
 </div>
 </div>
 
