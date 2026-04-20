@@ -22,8 +22,9 @@ I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong Univer
 My research interests lie in streaming reconstruction and scene generation. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 400+ Google Scholar citations.
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 One paper on Physically-based Light Transport was accepted to SIGGRAPH 2026.
 - *2026.01*: &nbsp;🎉 Our ARTDECO on On-the-fly reconstruction was accepted to ICLR 2026.
-- *2025.09*: &nbsp;🎉 Our MV-CoLight on Multi-view Object Compositing was accepted to NIPS 2025.
+- *2025.09*: &nbsp;🎉 Our MV-CoLight on Multi-view Object Compositing was accepted to NeurIPS 2025.
 - *2025.08*: &nbsp;🎉 One paper on Unposed Novel View Synthesis was accepted to SIGGRAPH Asia 2025 (ACM TOG).
 - *2025.06*: &nbsp;🎉 Our SMHDR on Multi-view HDR Reconstruction was accepted to IJCV 2025.
 - *2025.05*: &nbsp;🎉 Our Octree-GS on LOD-Structured 3D Gaussians was accepted to TPAMI 2025.
@@ -107,7 +108,7 @@ Lihan Jiang\*, Yucheng Mao\*, Linning Xu, Tao Lu, **Kerui Ren**, Yichen Jin, Xud
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/MVCoLight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/MVCoLight.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation](https://arxiv.org/abs/2505.21483)
