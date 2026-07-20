@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Embodied AI Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://scholar.google.com/citations?user=w0Od3hQAAAAJ) and [**Dr. Linning Xu**](https://scholar.google.com/citations?user=I9Lrbs4AAAAJ). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://scholar.google.com/citations?user=68IcrE4AAAAJ).
+I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Physical Intelligence Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://mulinyu.github.io/) and [**Dr. Tao Lu**](https://inspirelt.github.io/). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://eezkni.github.io/).
 
-My research interests lie in streaming reconstruction and scene generation. I have published papers in top-tier computer vision conferences and journals including CVPR, NIPS, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 400+ Google Scholar citations.
+My research interests lie in novel view synthesis and world action models. I have published papers in top-tier computer vision conferences and journals including CVPR, NeurIPS, SIGGRAPH, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 600+ Google Scholar citations.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 Our M3 on On-the-fly Reconstruction was accepted to SIGGRAPH Asia 2026.
+- *2026.05*: &nbsp;🎉 One paper on Real-to-Sim Neural Simulator was accepted to ICML 2026.
 - *2026.04*: &nbsp;🎉 One paper on Physically-based Light Transport was accepted to SIGGRAPH 2026.
-- *2026.01*: &nbsp;🎉 Our ARTDECO on On-the-fly reconstruction was accepted to ICLR 2026.
+- *2026.01*: &nbsp;🎉 Our ARTDECO on On-the-fly Reconstruction was accepted to ICLR 2026.
 - *2025.09*: &nbsp;🎉 Our MV-CoLight on Multi-view Object Compositing was accepted to NeurIPS 2025.
 - *2025.08*: &nbsp;🎉 One paper on Unposed Novel View Synthesis was accepted to SIGGRAPH Asia 2025 (ACM TOG).
 - *2025.06*: &nbsp;🎉 Our SMHDR on Multi-view HDR Reconstruction was accepted to IJCV 2025.
@@ -36,7 +38,7 @@ My research interests lie in streaming reconstruction and scene generation. I ha
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/M3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/M3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [M³: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM](https://arxiv.org/abs/2603.16844)
@@ -48,7 +50,7 @@ My research interests lie in streaming reconstruction and scene generation. I ha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/SoMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/SoMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation](https://arxiv.org/abs/2602.02402)
@@ -60,7 +62,7 @@ Mu Huang, Hui Wang, **Kerui Ren**, Linning Xu, Yunsong Zhou, Mulin Yu, Bo Dai, J
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/EAGPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/EAGPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EAG-PT: Emission-Aware Gaussians and Path Tracing for Indoor Scene Reconstruction and Editing](https://arxiv.org/abs/2601.23065)
@@ -120,7 +122,7 @@ Lihan Jiang\*, Yucheng Mao\*, Linning Xu, Tao Lu, **Kerui Ren**, Yichen Jin, Xud
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/HaloGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPRS 2026</div><img src='images/HaloGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes](https://arxiv.org/abs/2505.20267)
@@ -168,18 +170,6 @@ Yifei Gao*, **Kerui Ren\***, Jie Ou, Lei Wang, Jiaji Wu, Jun Cheng
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/PayAtten.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Pay Attention to What You Need](https://arxiv.org/abs/2307.13365)
-
-Yifei Gao, Shaohong Chen, Lei Wang, Ruiting Dai, Ziyun Zhang, **Kerui Ren**, Jiaji Wu, Jun Cheng
-
-[**Code**](https://github.com/yileijin/PayAttn) [**Paper**](https://arxiv.org/pdf/2307.13365)
-- We propose Scaled ReAttention (SRA), a lightweight method that boosts LLMs' long-context understanding without fine-tuning or retraining.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/OctreeGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -216,8 +206,8 @@ Zhangkai Ni, Yang Zhang, **Kerui Ren**, Wenhan Yang†, Hanli Wang†, Sam Kwong
 
 Reviewer
 
-- SIGGRAPH Asia 25, SIGGRAPH 26
-- ISPRS, IEEE TVCG
+- NeurIPS, SIGGRAPH Asia, SIGGRAPH
+- IEEE TPAMI, IEEE TVCG, IEEE TMM, ISPRS
 
 # 💻 Internships
 - *2023.11 - present*, [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Shanghai, China.
