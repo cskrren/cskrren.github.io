@@ -19,9 +19,10 @@ redirect_from:
 
 I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Physical Intelligence Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://mulinyu.github.io/) and [**Dr. Tao Lu**](https://inspirelt.github.io/). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://eezkni.github.io/).
 
-My research interests lie in novel view synthesis and world action models. I have published papers in top-tier computer vision conferences and journals including CVPR, NeurIPS, SIGGRAPH, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 600+ Google Scholar citations.
+My research interests lie in agentic robotics and spatial intelligence. I have published papers in top-tier computer vision conferences and journals including CVPR, NeurIPS, SIGGRAPH, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 700+ Google Scholar citations.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 We open-sourced Real2Gym, a GPT6 Astra–powered skill framework for transforming real-world videos into executable robot simulations.
 - *2026.07*: &nbsp;🎉 Our M3 on On-the-fly Reconstruction was accepted to SIGGRAPH Asia 2026.
 - *2026.05*: &nbsp;🎉 One paper on Real-to-Sim Neural Simulator was accepted to ICML 2026.
 - *2026.04*: &nbsp;🎉 One paper on Physically-based Light Transport was accepted to SIGGRAPH 2026.
@@ -37,6 +38,37 @@ My research interests lie in novel view synthesis and world action models. I hav
 # 📝 Publications 
 
 (†: corresponding author; * :equal contribution)
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Real2Gym</div>
+      <img src="https://raw.githubusercontent.com/cskrren/Real2Gym/main/assets/real2gym-overview.png"
+           alt="Real2Gym framework overview" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Real2Gym: Real-World Videos to Executable Robot Simulations](https://github.com/cskrren/Real2Gym)
+
+[**Project**](https://cskrren.github.io/real2gym-site/) [**Code**](https://github.com/cskrren/Real2Gym)
+
+- Powered by **GPT6 Astra**, Real2Gym transforms human and robot videos into aligned **Blender scenes**, executable **MuJoCo actions**, and validated **simulation variants**.
+
+  </div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/AquFlow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction](https://arxiv.org/abs/2608.22906)
+
+Yingxiang Xu\*, **Kerui Ren\***, Wenqi Guo, Changjian Jiang, Tao Lu, Linning Xu, Mulin Yu†
+
+[**Paper**](https://arxiv.org/abs/2608.22906)
+- AquaFlow is a monocular Gaussian Splatting SLAM framework powered by foundation and optical models for high-fidelity underwater reconstruction.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2026</div><img src='images/M3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
