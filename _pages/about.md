@@ -39,23 +39,15 @@ My research interests lie in agentic robotics and spatial intelligence. I have p
 
 (†: corresponding author; * :equal contribution)
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Real2Gym</div>
-      <img src="https://raw.githubusercontent.com/cskrren/Real2Gym/main/assets/real2gym-overview.png"
-           alt="Real2Gym framework overview" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">github</div><img src='images/Real2Gym.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Real2Gym: Real-World Videos to Executable Robot Simulations](https://github.com/cskrren/Real2Gym)
 
 [**Project**](https://cskrren.github.io/real2gym-site/) [**Code**](https://github.com/cskrren/Real2Gym)
 
 - Powered by **GPT6 Astra**, Real2Gym transforms human and robot videos into aligned **Blender scenes**, executable **MuJoCo actions**, and validated **simulation variants**.
-
-  </div>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/AquFlow.png' alt="sym" width="100%"></div></div>
