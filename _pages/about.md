@@ -19,9 +19,10 @@ redirect_from:
 
 I am a second-year PhD candidate jointly supervised by Shanghai Jiao Tong University and Shanghai Artificial Intelligence Laboratory, under the primary guidance of [**Prof. Bo Dai**](https://scholar.google.com/citations?user=KNWTvgEAAAAJ). Currently, I am also a research intern at the Physical Intelligence Center of Shanghai AI Lab, co-advised by [**Dr. Mulin Yu**](https://mulinyu.github.io/) and [**Dr. Tao Lu**](https://inspirelt.github.io/). Prior to my doctoral studies, I received my Bachelor of Engineering degree from Tongji University, where I conducted research on HDR reconstruction for dynamic scenes under the supervision of [**Prof. Zhangkai Ni**](https://eezkni.github.io/).
 
-My research interests lie in agentic robotics and spatial intelligence. I have published papers in top-tier computer vision conferences and journals including CVPR, NeurIPS, SIGGRAPH, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 700+ Google Scholar citations.
+My research interests lie in agentic robotics and spatial intelligence. I have published papers in top-tier computer vision conferences and journals including CVPR, NeurIPS, SIGGRAPH, ICLR, RSS, TPAMI, IJCV and TOG, with my publications accumulating 800+ Google Scholar citations.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 Our PLANING on On-the-fly Reconstruction was accepted to NeurIPS 2026.
 - *2026.09*: &nbsp;🎉 We open-sourced Real2Gym, a GPT6 Astra–powered skill framework for transforming real-world videos into executable robot simulations.
 - *2026.07*: &nbsp;🎉 Our M3 on On-the-fly Reconstruction was accepted to SIGGRAPH Asia 2026.
 - *2026.05*: &nbsp;🎉 One paper on Real-to-Sim Neural Simulator was accepted to ICML 2026.
@@ -98,7 +99,7 @@ Xijie Yang, Mulin Yu, Changjian Jiang, **Kerui Ren**, Tao Lu, Jiangmiao Pang, Da
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/PLANING.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/PLANING.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction](https://arxiv.org/abs/2601.22046)
