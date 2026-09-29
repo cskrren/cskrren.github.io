@@ -47,7 +47,7 @@ My research interests lie in agentic robotics and spatial intelligence. I have p
 
 **Kerui Ren\***, Yingxiang Xu\*, Kaiwen Song, Lingning Xu, Bo Dai, Mulin Yu†, Tao Lu†
 
-[**Project**](https://real2gym.github.io/) [**Code**](https://github.com/real2gym/Real2Gym) [**Paper**]()
+[**Project**](https://real2gym.github.io/) [**Code**](https://github.com/real2gym/Real2Gym) [**Paper**](https://github.com/real2gym/Real2Gym/tree/main/paper/Real2Gym.pdf)
 - We introduce Real2Gym, an agentic Real2Sim2Real framework that turns human and robot demonstrations into interactive simulation gyms and brings skills acquired in simulation to physical robots.
 </div>
 </div>
@@ -55,11 +55,11 @@ My research interests lie in agentic robotics and spatial intelligence. I have p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/InfiniHand.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video]()
+[InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video](https://arxiv.org/abs/2609.35743)
 
 **Kerui Ren**, Kaiwen Song, Weiguang Zhao, Yuxi Wang, Yufei Liu, Bo Dai, Haoyu Guo, Chunhua Shen, Mulin Yu†, Tao Lu†, Junting Dong
 
-[**Project**](https://infinihand.github.io/)[**Paper**]()
+[**Project**](https://infinihand.github.io/) [**Code**](https://github.com/infinihand/InfiniHand) [**Paper**](https://arxiv.org/pdf/2609.35743)
 - we present InfiniHand, an end-to-end streaming feed-forward framework that jointly estimates MANO parameters, camera trajectories, and hand locations directly from uncalibrated egocentric video.
 </div>
 </div>
@@ -80,12 +80,11 @@ Physical Intelligence Team
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/GeoVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space]()
+[GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space](https://arxiv.org/abs/2609.35734)
 
 **Kerui Ren**, Tao Lu, Linning Xu, Changjian Jiang, Hunag Mu, Chunhua Shen, Mulin Yu†, Bo Dai†
 
-[**Project**](https://geoverse-nvs.github.io/)
-[**Paper**]()
+[**Project**](https://geoverse-nvs.github.io/)  [**Code**](https://github.com/geoverse-nvs/GeoVerse) [**Paper**](https://arxiv.org/pdf/2609.35734)
 - We propose GeoVerse, a framework that synthesizes world-consistent novel views by performing generation within the geometric latent space of a pretrained 3D foundation model and injecting appearance priors from a video generative model.
 </div>
 </div>
@@ -97,8 +96,6 @@ Physical Intelligence Team
 
 Xinzhe Wang, Changjian Jiang, Kaiwen Song, Xudong Li, **Kerui Ren**, Ran Yi, Lizhuang Ma, Chunhua Shen, Linning Xu, Tao Lu, Mulin Yu†
 
-[**Project**]()
-[**Paper**]()
 - We propose MIRAGE, which anchors feed-forward visual geometry to LiDAR--IMU metric motion and regulates online pose corrections according to correspondence support and cross-modal agreement, jointly enabling accurate metric pose estimation and high-fidelity Gaussian reconstruction.
 </div>
 </div>
@@ -110,7 +107,6 @@ Xinzhe Wang, Changjian Jiang, Kaiwen Song, Xudong Li, **Kerui Ren**, Ran Yi, Liz
 
 Yingxiang Xu\*, **Kerui Ren\***, Wenqi Guo, Changjian Jiang, Tao Lu, Linning Xu, Mulin Yu†
 
-[**Project**](https://city-super.github.io/M3/) [**Code**](https://github.com/InternRobotics/M3) 
 [**Paper**](https://arxiv.org/pdf/2608.22906)
 - AquaFlow is a monocular Gaussian Splatting SLAM framework powered by foundation and optical models for high-fidelity underwater reconstruction.
 </div>
