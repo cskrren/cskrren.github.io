@@ -47,7 +47,7 @@ My research interests lie in agentic robotics and spatial intelligence. I have p
 
 **Kerui Ren\***, Yingxiang Xu\*, Kaiwen Song, Lingning Xu, Bo Dai, Mulin Yu†, Tao Lu†
 
-[**Project**](https://real2gym.github.io/) [**Code**](https://github.com/real2gym/Real2Gym) [**Paper**](https://github.com/real2gym/Real2Gym/tree/main/paper/Real2Gym.pdf)
+[**Project**](https://real2gym.github.io/) [**Real2Sim Code**](https://github.com/real2gym/Real2Gym) [**Agent Code**](https://github.com/real2gym/R2G_Agent) [**Paper**](https://github.com/real2gym/Real2Gym/blob/main/paper/Real2Gym.pdf)
 - We introduce Real2Gym, an agentic Real2Sim2Real framework that turns human and robot demonstrations into interactive simulation gyms and brings skills acquired in simulation to physical robots.
 </div>
 </div>
