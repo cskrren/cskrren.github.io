@@ -82,7 +82,7 @@ Physical Intelligence Team
 
 [GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space](https://arxiv.org/abs/2609.35734)
 
-**Kerui Ren**, Tao Lu, Linning Xu, Changjian Jiang, Hunag Mu, Chunhua Shen, Mulin Yu†, Bo Dai†
+**Kerui Ren**, Tao Lu, Linning Xu, Changjian Jiang, Mu Huang, Chunhua Shen, Mulin Yu†, Bo Dai†
 
 [**Project**](https://geoverse-nvs.github.io/)  [**Code**](https://github.com/geoverse-nvs/GeoVerse) [**Paper**](https://arxiv.org/pdf/2609.35734)
 - We propose GeoVerse, a framework that synthesizes world-consistent novel views by performing generation within the geometric latent space of a pretrained 3D foundation model and injecting appearance priors from a video generative model.
