@@ -43,11 +43,11 @@ My research interests lie in agentic robotics and spatial intelligence. I have p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/Real2Gym.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real2Gym: Building Gyms from Videos, \\ Bringing Skills to Robots]()
+[Real2Gym: Building Gyms from Videos, \\ Bringing Skills to Robots](https://arxiv.org/abs/2609.37089)
 
 **Kerui Ren\***, Yingxiang Xu\*, Kaiwen Song, Lingning Xu, Bo Dai, Mulin Yu†, Tao Lu†
 
-[**Project**](https://real2gym.github.io/) [**Real2Sim Code**](https://github.com/real2gym/Real2Gym) [**Agent Code**](https://github.com/real2gym/R2G_Agent) [**Paper**](https://github.com/real2gym/Real2Gym/blob/main/paper/Real2Gym.pdf)
+[**Project**](https://real2gym.github.io/) [**Real2Sim Code**](https://github.com/real2gym/Real2Gym) [**Agent Code**](https://github.com/real2gym/R2G_Agent) [**Paper**](https://arxiv.org/pdf/2609.37089)
 - We introduce Real2Gym, an agentic Real2Sim2Real framework that turns human and robot demonstrations into interactive simulation gyms and brings skills acquired in simulation to physical robots.
 </div>
 </div>
